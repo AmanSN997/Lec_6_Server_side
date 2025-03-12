@@ -1,5 +1,5 @@
 {
-  "name": "lec_6_server_side",
+  "name": "Lec_6_Server_side",
   "version": "1.0.0",
   "description": "Server for Greenleaf Organics website with signup and login",
   "main": "server.js",
